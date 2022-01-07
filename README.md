@@ -14,6 +14,8 @@
 - The task is to filter the data provided through the hawaii.sqlite database and retrieve all the temperature for the month of June. 
 - After we finished our analysis of June we do an additional analysis for the month of December.
 ### Analysis of Outcomes 
+![image](https://user-images.githubusercontent.com/92435456/148530703-33b3f390-c7ef-4e00-8df8-fd616348afc9.png)
+![image](https://user-images.githubusercontent.com/92435456/148530740-199a0665-41dd-49ec-8a30-572dc232449e.png)
 
 - After filtering through the database we have found that the average temperature for the month of June is 74.94F and the average temperature for the month of December is 71.04F.
 - The minimum temperature for the month of June is a bit higher than the month of December, 64F vs 56F, as expected. 
